@@ -122,7 +122,8 @@ p
 /* fotter section*/
 footer
 {
-    height: 50px;
+    text-align: center;
+    margin: 70px 0 30px;
 }
 @media (max-width:500px)
 {
